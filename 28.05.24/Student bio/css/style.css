@@ -1,0 +1,30 @@
+.lesson {
+    color: white;
+    background-color: blue    
+}
+
+.contact-info {
+    background-color: #0000ff;
+}
+
+#title {
+    color: rgb(255, 38, 117);
+    background-color: rgb(210, 180, 239);
+    width: 320px;
+    height: 100px;
+}
+
+#email {
+    color: orange;
+    background-color: aqua;
+}
+
+#github {
+    color: orange;
+    background-color: aqua;
+}
+
+#portfolio {
+    color: orange;
+    background-color: aqua;
+}
